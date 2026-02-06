@@ -1,0 +1,2 @@
+# mazdoor-app
+.
